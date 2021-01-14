@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+             <head>
+
+                 <title>Ella's Website</title>
+             </head>
+             <body>
+                 <h1>Ella Qu</h1>
+                 <h2>About Me</h2>
+                 <p>Hi, I am Ella. I am an international student studying at UW</p>
+                 <p>I am from Guangzhou, China, which is super close to HongKong</p>
+                 <h2>My Favorite Website</h2>
+                 <ul>
+                     <li>
+                         <a href="https://www.netflix.com/browse/genre/34399?so=su">Netflix</a>
+                     </li>
+                     <li>
+                         <a href="https://www.youtube.com/">YouTube</a>
+                     </li>
+                     <li>
+                         <a href="https://canvas.uw.edu/">Canvas</a>
+                     </li>
+                     <li>
+                         <a href="https://docs.google.com/document/u/0/?tgif=d">Google Doc</a>
+                     </li>
+                     <li>
+                         <a href="https://mail.google.com/mail/u/0/">G Mail</a>
+                     </li>
+                 <h2>My Favorite Images</h2>
+                 <a href="https://www.baidu.com">
+                    <img src="https://5b0988e595225.cdn.sohucs.com/images/20170904/915c09d24dbc4e6299ab49c9348d744c.jpeg" title="Random Cell" style="width:100px;height:100px;margin:Spx" ></img>
+                 </a>  
+                 <a href="http://www.google.cn/"> 
+                    <img src="https://static.wikia.nocookie.net/disney/images/a/a8/Profile_-_Stitch.jpeg/revision/latest/top-crop/width/360/height/450?cb=20190312072323" title="Stitch" style="width:100px;height:100px;margin:Spx"></img> 
+                 </a>
+				 </body>
+</html>
